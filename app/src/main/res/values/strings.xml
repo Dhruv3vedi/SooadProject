@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">SooadProject</string>
+    <string name="Menu">Menu</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+
+    <string name="starter1">Aloo and Dal tikki</string>
+    <string name="starter2">Bhuna masala Chicken Wings</string>
+    <string name="starter3">Cheese Balls</string>
+    <string name="starter4">Crumb Fried Chicken</string>
+    <string name="starter5">Hot Basil Chicken Cups</string>
+    <string name="starter6">Kakori Kebabs</string>
+    <string name="starter7">Microwave Paneer Tikkas</string>
+    <string name="starter8">Stir Fried Chilly Chicken</string>
+    <string name="starter9">Chicken Satay</string>
+    <string name="starter10">Tangri /kebabs</string>
+
+    <string name="soups1">Avocado Soup</string>
+    <string name="soups2">Beer Cheese Soup</string>
+    <string name="soups3">Carrot Soup</string>
+    <string name="soups4">Chicken noodle Soup</string>
+    <string name="soups5">Cream of Wild Mushroom Soup</string>
+    <string name="soups6">Soy Ramen</string>
+    <string name="soups7">Taco Soup</string>
+    <string name="soups8">Tomato Soup</string>
+    <string name="soups9">Vegetable udon Noodle Soup</string>
+    <string name="soups10">Wine Soup</string>
+
+    <string name="biryani1">Begara Anam</string>
+    <string name="biryani2">Chicken Reshmi Biryani</string>
+    <string name="biryani3">Curd Rice</string>
+    <string name="biryani4">Hydrebadi Biryani</string>
+    <string name="biryani5">Keema Biryani</string>
+    <string name="biryani6">Lemon Rice</string>
+    <string name="biryani7">Macchli Biryani</string>
+    <string name="biryani8">Makhani Paneer Biryani</string>
+    <string name="biryani9">Puliyogare</string>
+    <string name="biryani10">Sambhar Rice</string>
+    <string name="biryani11">Sesame Rice</string>
+
+    <string name="noodlesfriedRIce1">Cicken Choupsey</string>
+    <string name="noodlesfriedRIce2">Glass Noodle Salad</string>
+    <string name="noodlesfriedRIce3">Japanese Soba Noodle</string>
+    <string name="noodlesfriedRIce4">Laksa</string>
+    <string name="noodlesfriedRIce5">Quick Noodle With Mix Meat</string>
+    <string name="noodlesfriedRIce6">Rice Noodles With Stired Fried Chicken</string>
+    <string name="noodlesfriedRIce7">Rocky Pad Thai</string>
+    <string name="noodlesfriedRIce8">Thai Noodle Soup</string>
+    <string name="noodlesfriedRIce9">Cauliflower Fried Rice</string>
+    <string name="noodlesfriedRIce10">Easy Pineapple Fried Rice</string>
+    <string name="noodlesfriedRIce11">Fried Rice With Crab And Peas</string>
+    <string name="noodlesfriedRIce12">Ham Fried Rice</string>
+    <string name="noodlesfriedRIce13">Kimchi Fried Rice</string>
+    <string name="noodlesfriedRIce14">Mexican Frid Rice</string>
+    <string name="noodlesfriedRIce15">Vegetable Fried Rice</string>
+
+    <string name="pizzapasta1">KEbab Paneer Pizza</string>
+    <string name="pizzapasta2">Margherita Pizza</string>
+    <string name="pizzapasta3">Meat Pizza</string>
+    <string name="pizzapasta4">Mexican Pizza</string>
+    <string name="pizzapasta5">Mini Mushroom Pizza</string>
+    <string name="pizzapasta6">Multigrain Pizza</string>
+    <string name="pizzapasta7">Pepproni Pizza</string>
+    <string name="pizzapasta8">Scone Pizza</string>
+    <string name="pizzapasta9">Veg Pizza</string>
+    <string name="pizzapasta10">Wholegrain Pizza</string>
+    <string name="pizzapasta11">Carbonara Pasta</string>
+    <string name="pizzapasta12">Fourcheese Pasta</string>
+    <string name="pizzapasta13">Gnocchi WIth Tomato Sauce</string>
+    <string name="pizzapasta14">HOme STyle Pasta</string>
+    <string name="pizzapasta15">Lasgna</string>
+    <string name="pizzapasta16">Pasta Con Pomo Doro E Bascicillo</string>
+    <string name="pizzapasta17">Penne ALa Vodka</string>
+    <string name="pizzapasta18">Sphagetti Bolongnese</string>
+    <string name="pizzapasta19">Whole Wheat Pasta</string>
+
+
+    <string name="dessert1">Kulfi</string>
+    <string name="dessert2">Aam Shikhand</string>
+    <string name="dessert3">Gajar Ka Halwa</string>
+    <string name="dessert4">Gulab Jamun</string>
+    <string name="dessert5">Payasam</string>
+    <string name="dessert6">Phirni</string>
+    <string name="dessert7">Sandesh</string>
+    <string name="dessert8">Shahi Tukda</string>
+</resources>
